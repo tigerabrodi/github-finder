@@ -1,0 +1,8 @@
+export const GithubActionTypes = {
+    SEARCH_USERS: "SEARCH_USERS",
+    GET_USER: "GET_USER",
+    CLEAR_USERS: "CLEAR_USERS",
+    GET_REPOS: "GET_REPOS",
+    SET_LOADING: "SET_LOADING",
+    ERROR_MESSAGE: "ERROR_MESSAGE"
+}
